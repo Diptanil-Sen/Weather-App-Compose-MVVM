@@ -18,8 +18,6 @@ A focused, single-screen weather app that demonstrates clean network integration
 |---|---|
 | ![Screen1](screenshots/weather1.png) | ![Screen2](screenshots/weather2.png) |
 
-*(Replace with your own screenshots once running)*
-
 ## 📐 Architecture
 
 Built with **MVVM + Repository Pattern**, separating UI, business logic, and data access into independent, testable layers:
