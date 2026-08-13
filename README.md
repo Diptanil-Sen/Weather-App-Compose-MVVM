@@ -59,7 +59,7 @@ Built with **MVVM + Repository Pattern**, separating UI, business logic, and dat
 ## ⚙️ Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/weather-app.git
+git clone https://github.com/Diptanil-Sen/Weather-App-Compose-MVVM.git
 ```
 1. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api)
 2. Add your key to the project's config as instructed in the source
