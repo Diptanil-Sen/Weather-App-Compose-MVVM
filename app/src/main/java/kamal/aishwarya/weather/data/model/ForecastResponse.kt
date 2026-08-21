@@ -1,6 +1,5 @@
 package kamal.aishwarya.weather.data.model
 
-
 import com.google.gson.annotations.SerializedName
 import kamal.aishwarya.weather.data.model.ForecastResponse.NetworkForecast.NetworkForecastday
 import kamal.aishwarya.weather.model.Forecast
